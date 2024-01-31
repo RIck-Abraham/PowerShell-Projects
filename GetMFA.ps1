@@ -1,4 +1,4 @@
-﻿<#
+<#
 =============================================================================================
 Name:           Export Office 365 MFA status report
 Description:    This script exports Microsoft 365 MFA status report to CSV
